@@ -1,3 +1,3 @@
-# Exploratory Data Analysis - Breast Cancer Survival Dataset
+# Exploratory Data Analysis
 
-![images.jpeg](BCS_Images/bc.jpeg)
+
