@@ -11,7 +11,7 @@ This repository contains the details on the Exploratory Data Analysis conducted 
 
 ## Contents
 
-[1. EDA - Breast Cancer Survival Dataset](#section1)<br>
+1. [EDA - Breast Cancer Survival Dataset](#section1)<br>
 
 ___
 <a id=section1></a>
