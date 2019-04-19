@@ -11,9 +11,11 @@ This repository contains the details on the Exploratory Data Analysis conducted 
 
 ## Contents
 
-1. EDA - Breast Cancer Survival Dataset
+1. [EDA - Breast Cancer Survival Dataset]((#section1)<br>
 
-## Exploratory Data Analysis - Breast Cancer Survival Dataset
+___
+<a id=section1></a>
+### [EDA - Breast Cancer Survival Dataset](./EDA_BCS)
 
 ![images.jpeg](EDA_Images/bc.jpeg)
 
