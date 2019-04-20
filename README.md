@@ -12,6 +12,7 @@ This repository contains the details on the Exploratory Data Analysis conducted 
 ## Contents
 
 1. [EDA - Breast Cancer Survival Dataset](#section1)<br>
+2. [EDA - Employee Attrition Dataset](#section2)<br>
 
 ___
 <a id=section1></a>
@@ -19,3 +20,8 @@ ___
 
 ![images.jpeg](EDA_Images/bc.jpeg)
 
+___
+<a id=section2></a>
+### [EDA - Employee Atrition Dataset](./EDA_HEA)
+
+![images.jpeg](EDA_Images/HEA_Banner.png)
