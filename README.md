@@ -1,6 +1,6 @@
 # Exploratory Data Analysis
 
-![images.jpeg](EDA_Images/EDA2.jpg=100x2)
+![images.jpeg](EDA_Images/EDA2.jpg =100x2)
 
 In statistics, exploratory data analysis (EDA) is an approach to analyzing data sets to summarize their main characteristics, often with visual methods. 
 
