@@ -22,6 +22,6 @@ ___
 
 ___
 <a id=section2></a>
-### [EDA - Employee Atrition Dataset](./EDA_HEA)
+### [EDA - Employee Attrition Dataset](./EDA_HEA)
 
 ![images.jpeg](EDA_Images/HEA_Banner.png)
