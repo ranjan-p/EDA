@@ -1,16 +1,15 @@
 # Exploratory Data Analysis - Employee Attrition Prediction
 ![image.png](HEA_Images/HEA_Banner_1.png)
 
-In this exercise, our aim is predict the employee attrition. It is important to see which variables are contibuting the most in attrition. But before that we need to know if the variable are any where correlated i.e Data Exploration.
+In this exercise, our goal is to predict the employee attrition. We will explore which variables are contibuting the most towards employee attrition. We will first investigate, if the variables in the dataset are correlated i.e Data Exploration.
 
-There are many continuous variables where the we can have a look at their distribution and create a grid of pairplot but that would be too much as there are so mnay variables.
+## Introduction
 
-## Intorduction
 Every year a lot of companies hire a number of employees. The companies __invest__ time and money in __training__ those employees, not just this but there are __training programs__ within the companies for their existing employees as well. The __aim__ of these programs is to __increase the effectiveness__ of their employees. 
 - But where __HR Analytics__ fit in this? 
 - and is it just about __improving__ the performance of employees?
 
-## DATA
+## Data
 | Column Name | Description |
 | --- | --- |
 | `AGE` | Numerical Value |
@@ -24,7 +23,7 @@ Every year a lot of companies hire a number of employees. The companies __invest
 | `EDUCATION FIELD` | (1=HR, 2=LIFE SCIENCES, 3=MARKETING, 4=MEDICAL SCIENCES, 5=OTHERS, 6= TEHCNICAL) |
 | `DEPARTMENT` | (1=HR, 2=R&D, 3=Sales) |
 
-## PROJECT ANALYSIS
+## Analysis
 | Description | Analysis |
 | --- | --- |
 | hr_data.head | ![image.png](HEA_Images/head.png) |
@@ -32,14 +31,13 @@ Every year a lot of companies hire a number of employees. The companies __invest
 | dummies | ![image.png](HEA_Images/dummies.png) |
 | final | ![image.png](HEA_Images/final.png) |
 
-### FEATURE IMPORTANCE
+### Feature Selection
 ![image.png](HEA_Images/feature.png)
 - We saw how we can avoid using correlated values and why it is important not to use those while modelling. 
 - We used Random forest and learned how it can be very advantageous over other available machine learning algorithm. 
 - Most of all we found factors which are most important to employees and if are not fulfilled might lead to Attrition.
 
 [Jupyter Notebook](./HR_Analytics.ipynb)
-
 ___
 
 # For more cheatsheet commands refer to the below links
