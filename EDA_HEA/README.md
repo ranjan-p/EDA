@@ -1,7 +1,7 @@
 # Exploratory Data Analysis - Employee Attrition Prediction
 ![image.png](HEA_Images/HEA_Banner_1.png)
 
-For this exercise, our aim is predict the employee attrition. It is important to see which variables are contibuting the most in attrition. But before that we need to know if the variable are any where correlated i.e Data Exploration.
+In this exercise, our aim is predict the employee attrition. It is important to see which variables are contibuting the most in attrition. But before that we need to know if the variable are any where correlated i.e Data Exploration.
 
 There are many continuous variables where the we can have a look at their distribution and create a grid of pairplot but that would be too much as there are so mnay variables.
 
