@@ -29,14 +29,12 @@ Every year a lot of companies hire a number of employees. The companies __invest
 | final | ![image.png](HEA_Images/final.png) |
 
 ### FEATURE IMPORTANCE
-![image.png](images/feature.png)
+![image.png](HEA_Images/feature.png)
 - We saw how we can avoid using correlated values and why it is important not to use those while modelling. 
 - We used Random forest and learned how it can be very advantageous over other available machine learning algorithm. 
 - Most of all we found factors which are most important to employees and if are not fulfilled might lead to Attrition.
 
 [Jupyter Notebook](./HR_Analytics.ipynb)
-
-
 
 ___
 
