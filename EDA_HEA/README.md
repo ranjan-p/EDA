@@ -1,7 +1,11 @@
 # Exploratory Data Analysis - Employee Attrition Prediction
 ![image.png](HEA_Images/HEA_Banner_1.png)
 
-## INTRODUCTION
+For this exercise, our aim is predict the employee attrition. It is important to see which variables are contibuting the most in attrition. But before that we need to know if the variable are any where correlated i.e Data Exploration.
+
+There are many continuous variables where the we can have a look at their distribution and create a grid of pairplot but that would be too much as there are so mnay variables.
+
+## Intorduction
 Every year a lot of companies hire a number of employees. The companies __invest__ time and money in __training__ those employees, not just this but there are __training programs__ within the companies for their existing employees as well. The __aim__ of these programs is to __increase the effectiveness__ of their employees. 
 - But where __HR Analytics__ fit in this? 
 - and is it just about __improving__ the performance of employees?
