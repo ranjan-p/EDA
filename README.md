@@ -36,3 +36,5 @@ ___
 ### [2. EDA - Employee Attrition Dataset](./EDA_HEA)
 
 ![images.jpeg](EDA_Images/HEA_Banner.png)
+
+In this exercise, our goal is to predict the employee attrition. We will explore which variables are contibuting the most towards employee attrition. We will first investigate, if the variables in the dataset are correlated i.e Data Exploration.
