@@ -1,5 +1,5 @@
 # PEOPLE ANALYTICS WITH ATTRITION PREDICTION
-![image.png](images/HRTalent.png)
+![image.png](HEA_Images/HRTalent.png)
 
 ## INTRODUCTION
 Every year a lot of companies hire a number of employees. The companies __invest__ time and money in __training__ those employees, not just this but there are __training programs__ within the companies for their existing employees as well. The __aim__ of these programs is to __increase the effectiveness__ of their employees. 
@@ -23,10 +23,10 @@ Every year a lot of companies hire a number of employees. The companies __invest
 ## PROJECT ANALYSIS
 | Description | Analysis |
 | --- | --- |
-| hr_data.head | ![image.png](images/head.png) |
-| missing value | ![image.png](images/miss.png) |
-| dummies | ![image.png](images/dummies.png) |
-| final | ![image.png](images/final.png) |
+| hr_data.head | ![image.png](HEA_Images/head.png) |
+| missing value | ![image.png](HEA_Images/miss.png) |
+| dummies | ![image.png](HEA_Images/dummies.png) |
+| final | ![image.png](HEA_Images/final.png) |
 
 ### FEATURE IMPORTANCE
 ![image.png](images/feature.png)
