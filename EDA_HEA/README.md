@@ -1,4 +1,4 @@
-# PEOPLE ANALYTICS WITH ATTRITION PREDICTION
+# HR Analytics with Empoloyee Attrition Prediction
 ![image.png](HEA_Images/HEA_Banner_1.png)
 
 ## INTRODUCTION
