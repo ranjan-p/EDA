@@ -41,7 +41,7 @@ ___
 In this exercise, our goal is to predict the employee attrition. We will explore which variables are contibuting the most towards employee attrition. We will first investigate, if the variables in the dataset are correlated i.e Data Exploration.
 
 ___
-<a id=section2></a>
+<a id=section3></a>
 ### [3. EDA - US Deaths in 122 cities - 1962 - 2016 Dataset](./EDA_Deaths_US)
 
 ![images.jpeg](EDA_Images/HEA_Banner.png)
