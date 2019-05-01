@@ -20,6 +20,7 @@ This repository contains the details on the Exploratory Data Analysis conducted 
 
 [1. EDA - Breast Cancer Survival Dataset](#section1)<br>
 [2. EDA - Employee Attrition Dataset](#section2)<br>
+[3. EDA - US Deaths in 122 cities - 1962 - 2016 Dataset](#section3)<br>
 
 ___
 <a id=section1></a>
@@ -38,3 +39,11 @@ ___
 ![images.jpeg](EDA_Images/HEA_Banner.png)
 
 In this exercise, our goal is to predict the employee attrition. We will explore which variables are contibuting the most towards employee attrition. We will first investigate, if the variables in the dataset are correlated i.e Data Exploration.
+
+___
+<a id=section2></a>
+### [3. EDA - US Deaths in 122 cities - 1962 - 2016 Dataset](./EDA_Deaths_US)
+
+![images.jpeg](EDA_Images/HEA_Banner.png)
+
+In this excercise, our goal is to perform an EDA on the complete set of data reported to 122 Cities Mortality Reporting System. The system was retired as of 10/6/2016. The data contains, the vital statistics offices of 122 cities across the United States reported the total number of death certificates processed and the number of those for which pneumonia or influenza was listed as the underlying or contributing cause of death by age group.
