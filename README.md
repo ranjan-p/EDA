@@ -19,7 +19,7 @@ This repository contains the details on the Exploratory Data Analysis conducted 
 ## Contents
 
 [1. EDA - Breast Cancer Survival Dataset](#section1)<br>
-[2. EDA - US Deaths in 122 cities - 1962 - 2016 Dataset](#section2)<br>
+[2. EDA - Mortality rates in US cities - 1962 - 2016 Dataset](#section2)<br>
 
 ___
 <a id=section1></a>
