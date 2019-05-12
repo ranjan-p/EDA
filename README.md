@@ -19,8 +19,7 @@ This repository contains the details on the Exploratory Data Analysis conducted 
 ## Contents
 
 [1. EDA - Breast Cancer Survival Dataset](#section1)<br>
-[2. EDA - Employee Attrition Dataset](#section2)<br>
-[3. EDA - US Deaths in 122 cities - 1962 - 2016 Dataset](#section3)<br>
+[2. EDA - US Deaths in 122 cities - 1962 - 2016 Dataset](#section2)<br>
 
 ___
 <a id=section1></a>
@@ -31,18 +30,9 @@ ___
 In this excercise, we will perform Exploratory Data Analysis to predict whether a patient undergoing surgery for breast cancer survives for more than 5 years or not, based on the age, year of operation and the number of positive axillary nodes detected.
 
 The dataset contains cases from a study that was conducted between 1958 and 1970 at the University of Chicago's Billings Hospital on the survival of patients who had undergone surgery for breast cancer.
-
 ___
 <a id=section2></a>
-### [2. EDA - Employee Attrition Dataset](./EDA_HEA)
-
-![images.jpeg](EDA_Images/HEA_Banner.png)
-
-In this exercise, our goal is to predict the employee attrition. We will explore which variables are contibuting the most towards employee attrition. We will first investigate, if the variables in the dataset are correlated i.e Data Exploration.
-
-___
-<a id=section3></a>
-### [3. EDA - US Deaths in 122 cities - 1962 - 2016 Dataset](./EDA_Deaths_US)
+### [3. EDA - Mortality rates in US cities - 1962 - 2016 Dataset](./EDA_Deaths_US)
 
 ![images.jpeg](EDA_Images/Deaths1.jpg)
 
