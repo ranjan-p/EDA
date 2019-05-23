@@ -1,4 +1,4 @@
-# Exploratory Data Analysis - Mortality Data of US Cities between 1962 - 2016 Dataset
+# Exploratory Data Analysis - Mortality Data of US Cities between 1962 - 2016
 
 ![images.jpg](DUS_Images/Deaths1.jpg)
 
