@@ -24,35 +24,35 @@ Key information as can be found in the dataset as as follows,
 
 ![images.jpeg](BCS_Images/U3.PNG)
 
-![images.jpeg](BCS_Images/PD_AG.PNG)
-
 The sample population consists of only Adults (25 - 64 years) & Senior Citizens (65 years or more). Adults count is 84% (258), while the Seniors are 16% (48).
 
-![images.jpeg](BCS_Images/PD_Y.PNG)
+![images.jpeg](BCS_Images/PD_AG.PNG)
 
 The maximum count of operation in a given 5 year range was between the year 1961 & 1965. This is 45% of the total operations conducted.
 30% of the operations hsppened between 1955 - 1960 and 25% between 1966-1970.
 
-![images.jpeg](BCS_Images/PD_N.PNG)
+![images.jpeg](BCS_Images/PD_Y.PNG)
 
 A total of 136 patients were in N0 rating (less than 1 Positive node detected) in the given sample. This is 44% of the sample population.
 A total of 81 patients were in N1 rating (less than 3 Positive node detected) in the given sample. This is 26% of the sample population.
 A total of 46 patients were in N2 rating (less than 10 Positive node detected) in the given sample. This is 15% of the sample population.
 A total of 43 patients were in N4 rating (more than 9 Positive node detected) in the given sample. This is 14% of the sample population.
 
-![images.jpeg](BCS_Images/A_CN.PNG)
+![images.jpeg](BCS_Images/PD_N.PNG)
 
 Most of the patients had 0 Positive Axillary Node detected and they survived 5 years or longer after the operation.
 Higher percentage of the patients with 4 or more Positive Axillary Node detected, survived less than 5 years after operation.
 Only patient with more than 50 Positive Axillary Node detected, died within 5 years of the operation.
 Most of the patients in the age range 30 - 65 years i.e Adults had less than 10 Positive Axillary Node detected.
 
-![images.jpeg](BCS_Images/A_Y.PNG)
+![images.jpeg](BCS_Images/A_CN.PNG)
 
 Most of the patients were in the Age range 40 - 70 years at the time of operation.
 Higher percentage of the patients in the Age range 30 - 40 years at the time of operation, survived 5 years or longer.
 Only patient above 80 years of age at the time of operation, died within 5 years of the operation.
 Most of the patients are in the age range 30 - 65 years i.e Adults.
+
+![images.jpeg](BCS_Images/A_Y.PNG)
 
 ![images.jpeg](BCS_Images/PP.png)
 
