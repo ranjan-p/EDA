@@ -16,6 +16,11 @@ Below is the statistical measues of the dataset information,
 
 ![images.jpeg](BCS_Images/Data_Describe.PNG)
 
+- Age of patient at the time of operation has a mean of 52 yeras, with a min of 30 & max of 83 years.
+- The operations took place in the range of years 1958 - 1969, with the women undergoing operation at the minimum age of 30 was in 1958 and the women undergoing operation at a maximum age of 83 was in 1969.
+- The minimum number of positive axillary nodes detected in any patient of the given sample was 0 and maximum number was 52.
+- The mean of the "Status" column is closer to 1, as a result it can be infferred, that more patients in the given sample survived 5 years or more after operation.
+
 Key information as can be found in the dataset as as follows,
 
 ![images.jpeg](BCS_Images/U1.PNG)
@@ -23,6 +28,16 @@ Key information as can be found in the dataset as as follows,
 ![images.jpeg](BCS_Images/U2.PNG)
 
 ![images.jpeg](BCS_Images/U3.PNG)
+
+We used the __TNM Classification of Malignant Tumors (TNM)__ to create a categorical variable for the count of __Axillary Nodes__ detected in a patient. __TNM__ is a globally recognised standard for classifying the extent of spread of cancer. It is a classification system of the anatomical extent of tumor cancers. It has gained wide international acceptance for many solid tumor cancers, but is not applicable to leukaemia and tumors of the central nervous system. Most common tumors have their own TNM classification.
+
+__T__ describes the size of the original (primary) tumor and whether it has invaded nearby tissue, __N__ describes nearby (regional) lymph nodes that are involved, __M__ describes distant metastasis (spread of cancer from one part of the body to another).
+
+__N0__ - Axillary and other nearby lymph nodes do not have cancer or only have isolated tumor cells (individual cancer cells), when looked at under a microscope.
+__N1__ - Micrometastases (very small clusters of cancer) OR 1–3 axillary lymph nodes have cancer AND/OR Internal mammary nodes have cancer or micrometastases (very small clusters of cancer cells) found on sentinel node biopsy
+__N2__ - 4–9 axillary lymph nodes have cancer OR Internal mammary nodes have cancer, but axillary lymph nodes do not have cancer.
+__N3__ - 10 or more axillary lymph nodes have cancer OR Infraclavicular (under the clavicle) nodes have cancer OR Internal mammary nodes have cancer plus 1 or more axillary lymph nodes have cancer OR 4 or more axillary lymph nodes have cancer plus internal mammary nodes have cancer or micrometastases found on sentinel node biopsy OR Supraclavicular (above the clavicle) nodes have cancer.
+
 
 The sample population consists of only Adults (25 - 64 years) & Senior Citizens (65 years or more). Adults count is 84% (258), while the Seniors are 16% (48).
 
