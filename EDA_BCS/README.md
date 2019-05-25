@@ -34,8 +34,11 @@ We used the __TNM Classification of Malignant Tumors (TNM)__ to create a categor
 __T__ describes the size of the original (primary) tumor and whether it has invaded nearby tissue, __N__ describes nearby (regional) lymph nodes that are involved, __M__ describes distant metastasis (spread of cancer from one part of the body to another).
 
 __N0__ - Axillary and other nearby lymph nodes do not have cancer or only have isolated tumor cells (individual cancer cells), when looked at under a microscope.
+
 __N1__ - Micrometastases (very small clusters of cancer) OR 1–3 axillary lymph nodes have cancer AND/OR Internal mammary nodes have cancer or micrometastases (very small clusters of cancer cells) found on sentinel node biopsy
+
 __N2__ - 4–9 axillary lymph nodes have cancer OR Internal mammary nodes have cancer, but axillary lymph nodes do not have cancer.
+
 __N3__ - 10 or more axillary lymph nodes have cancer OR Infraclavicular (under the clavicle) nodes have cancer OR Internal mammary nodes have cancer plus 1 or more axillary lymph nodes have cancer OR 4 or more axillary lymph nodes have cancer plus internal mammary nodes have cancer or micrometastases found on sentinel node biopsy OR Supraclavicular (above the clavicle) nodes have cancer.
 
 
