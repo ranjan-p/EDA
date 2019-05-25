@@ -16,13 +16,16 @@ Below table provides the __dataset information__,
 
 ![images.jpg](DUS_Images/Data_Info.PNG)
 
-The dataset has the following counts for unique __States & Cities__,
+The dataset has the following counts for unique __Regions, States & Cities__,
 
 ![images.jpg](DUS_Images/Unique_Cities_States.PNG)
 
 Below is the distribution of mortality based on __Regions__,
 
 ![images.jpg](DUS_Images/Deaths_Region.PNG)
+
+From the pie chart, it is clear that, the count of flu related deaths is proportional to the count of all deaths in a given region.
+Region 2, 3 & 9, has the highest count of all deaths.Region 5 & 7 has lower count of all deaths. Region 4, 6 & 8 has the lowest count of all deaths.
 
 Below is the distribution of mortality based on __Years__,
 
@@ -39,13 +42,21 @@ Below is the distribution of mortality based on __States__,
 
 ![images.jpg](DUS_Images/Deaths_States.PNG)
 
+New York, California, Texas, Ohio, Pennsylvania and Illinoi has the highest count of all deaths. Similarly, Idaho, Kentucky, Rhode Island, Iowa, Hawaii etc have the lowest count of all deaths.
+
 Below is the distribution of mortality in the __State of New York__,
 
 ![images.jpg](DUS_Images/Deaths_NY.PNG)
 
+On further exploring the data of New York state, we can find that the count of Flu related deaths has been relatively similary across years.The deaths of all deaths have gradually decreased over the years.
+
 Below is the distribution of mortality based on __Cities__,
 
 ![images.jpg](DUS_Images/Deaths_Cities.PNG)
+
+The maximum cumulitive deaths have occurred in the cities of New York, Chicago, Los Angeles, Philadelphia, Houston, Detroit & Baltimore.
+The least cumulitive deats have occurred in the cities of Newark, Des Moines, Honululu, Saint Paul etc.
+In all the cities except New York, the flu related deaths are following the same relative pattern.
 
 - The most important inference drawn from all this analysis is, we get to know what are the Flu has been a major cause of deaths across US except in the state of New York. In the state of New York there were other causes, which largely contributed to All Deaths.
 - The observations from the excercise clearly shows the co-relation between the All Deaths & Flu Deaths and the various Age Groups.
