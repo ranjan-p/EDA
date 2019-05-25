@@ -8,15 +8,11 @@ In this excercise, our goal is to perform an EDA on the complete set of data rep
 
 ![images.jpg](DUS_Images/Attribute_Info.PNG)
 
-
 ![images.jpg](DUS_Images/Data_Info.PNG)
-
 
 ![images.jpg](DUS_Images/Unique_Cities_States.PNG)
 
-
-![images.jpg](DUS_Images/Deanths_Region.PNG)
-
+![images.jpg](DUS_Images/Deaths_Region.PNG)
 
 ![images.jpg](DUS_Images/Deaths_Year.PNG)
 
