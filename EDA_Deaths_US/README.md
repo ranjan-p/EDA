@@ -6,27 +6,27 @@ In this excercise, our goal is to perform an EDA on the complete set of data rep
 
 ![images.jpg](DUS_Images/Regions_of_USA.png)
 
-![images.jpg](DUS_Images/Attribute_Info.png)
+![images.jpg](DUS_Images/Attribute_Info.PNG)
 
 
-![images.jpg](DUS_Images/Data_Info.png)
+![images.jpg](DUS_Images/Data_Info.PNG)
 
 
-![images.jpg](DUS_Images/Unique_Cities_States.png)
+![images.jpg](DUS_Images/Unique_Cities_States.PNG)
 
 
-![images.jpg](DUS_Images/Deanths_Region.png)
+![images.jpg](DUS_Images/Deanths_Region.PNG)
 
 
-![images.jpg](DUS_Images/Deaths_Year.png)
+![images.jpg](DUS_Images/Deaths_Year.PNG)
 
-![images.jpg](DUS_Images/Deaths_Age_Group.png)
+![images.jpg](DUS_Images/Deaths_Age_Group.PNG)
 
-![images.jpg](DUS_Images/Deaths_States.png)
+![images.jpg](DUS_Images/Deaths_States.PNG)
 
-![images.jpg](DUS_Images/Deaths_NY.png)
+![images.jpg](DUS_Images/Deaths_NY.PNG)
 
-![images.jpg](DUS_Images/Deaths_Cities.png)
+![images.jpg](DUS_Images/Deaths_Cities.PNG)
 
 
 
