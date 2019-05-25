@@ -2,9 +2,9 @@
 
 ![images.jpg](DUS_Images/Deaths1.jpg)
 
-In this excercise, our goal is to perform an EDA on the complete set of data reported across US Cities Mortality Reporting System. The system was retired as of 10/6/2016. The data contains, the vital statistics offices of 122 cities across the United States reported the total number of death certificates processed and the number of those for which pneumonia or influenza was listed as the underlying or contributing cause of death by age group. In this excercise, our goal is to perform an EDA on the complete set of data reported to 122 Cities Mortality Reporting System. The system was retired as of 10/6/2016. The data contains, the vital statistics offices of 122 cities across the United States reported the total number of death certificates processed and the number of those for which pneumonia or influenza was listed as the underlying or contributing cause of death by age group.
+In this excercise, our goal is to perform an EDA on the complete set of data reported across US Cities Mortality Reporting System. The system was retired as of 10/6/2016. The data contains, the vital statistics offices of cities across the United States reported the total number of death certificates processed and the number of those for which pneumonia or influenza was listed as the underlying or contributing cause of death by age group. In this excercise, our goal is to perform an EDA on the complete set of data reported to 122 Cities Mortality Reporting System. The system was retired as of 10/6/2016. The data contains, the vital statistics offices of the  cities across the United States reported the total number of death certificates processed and the number of those for which pneumonia or influenza was listed as the underlying or contributing cause of death by age group.
 
-The dataset provides the mortality data fro the below __Regions of USA__ between the years __1962 - 2016__,
+The dataset provides the mortality data for the below __Regions of USA__ between the years __1962 - 2016__,
 
 ![images.jpg](DUS_Images/Regions_of_USA.png)
 
@@ -57,6 +57,6 @@ New York, California, Texas, Ohio, Pennsylvania and Illinoi has the highest coun
 
 #### Observations
 
-The observations for above excercises, clearly shows that the Flu related deaths across US is proportionate to All deaths in various regions & sates except the State of New York, where it contributes a a negligible count towards the death toll. The city of Ultica has the lowest count of all deaths. The city of Schenectady has the lowest flu related deaths. However, Flu deaths makes a smaller subset of the total deaths across USA.
+The observations from the above excercise, clearly shows that the Flu related deaths across US is proportionate to All deaths in various regions & states except the State of New York, where it contributes a negligible count towards the death toll. The city of Ultica has the lowest count of all deaths. The city of Schenectady has the lowest flu related deaths. However, Flu deaths makes a smaller subset of the total deaths across USA.
 
 [Jupyter Notebook](./EDA_Mortality_US.ipynb)
