@@ -26,9 +26,9 @@ The dataset contains cases from a study that was conducted between 1958 and 1970
 
 ![images.jpeg](BCS_Images/A_CN.PNG)
 
-![images.jpeg](BCS_Images/Y_D.PNG)
+![images.jpeg](BCS_Images/A_Y.PNG)
 
-![images.jpeg](BCS_Images/PP.PNG)
+![images.jpeg](BCS_Images/PP.png)
 
 The most important inference drawn from all this analysis is, we get to know what are the features on which survival is highly positively and negatively coorelated with e.g. relationship between Survival Status with the Count of Positive Axillary Nodes detected in the patient and the Age of the patient at the time of operation. The observations also shows the co-relation between the Count of Positive Axillary Nodes detected in the patient and the Age of the patient at the time of operation to their length of __Survival post operation__.
 
