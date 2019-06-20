@@ -76,6 +76,6 @@ Most of the patients are in the age range 30 - 65 years i.e Adults.
 
 #### Observations
 
-The most important inference drawn from this analysis is, we get to know what are the features on which __Survival__ is highly positively and negatively coorelated with e.g. relationship between Survival Status with the Count of Positive Axillary Nodes detected in the patient and the Age of the patient at the time of operation. The observations also shows the co-relation between the Count of Positive Axillary Nodes detected in the patient and the Age of the patient at the time of operation to their length of __Survival post operation__.
+The most important inference drawn from this analysis is, we get to know what are the features on which __Survival__ is highly positively and negatively coorelated with e.g. relationship between Survival Status with the Count of Positive Axillary Nodes detected in the patient and the Age of the patient at the time of operation. The observations also shows the co-relation between the Count of Positive Axillary Nodes detected in the patient and the Age of the patient at the time of operation to their length of __Survival__ post operation.
 
 [Jupyter Notebook](./EDA_Breast_Cancer_Survival_Notebook.ipynb)
